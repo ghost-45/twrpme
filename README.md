@@ -1,5 +1,5 @@
 Umidigi Devices Repository
-("https://www.umidigi.com/images/others/umidigi_logo.png")
+![Umidigi Devices]("https://www.umidigi.com/images/others/umidigi_logo.png")
 ==========================
 Actual Devices in this Repository:
 
@@ -18,7 +18,7 @@ Display | 6.3" 1920 x 1080 px
 Rear Camera | 48MP (Sony IMX586),LED Flash, 
 Front Camera | 20MP (OV)
 
-![Ulefone Devices](https://lh6.googleusercontent.com/14LQr0O-Maf5QWqGh1rlj6gM1W8B6tj-EFe8gQrLW4ujGYTBc6aY_zp66-BAXXm0nPEpvujv1vhYdIT_P8ipArBwskxgBUBCvS-fJ2h1dhDrYVoBeL1oZ9cBpkAcmDz8qahpuRIK "Umidigi S3-Pro in black")
+![Umidigi Devices](https://lh6.googleusercontent.com/14LQr0O-Maf5QWqGh1rlj6gM1W8B6tj-EFe8gQrLW4ujGYTBc6aY_zp66-BAXXm0nPEpvujv1vhYdIT_P8ipArBwskxgBUBCvS-fJ2h1dhDrYVoBeL1oZ9cBpkAcmDz8qahpuRIK "Umidigi S3-Pro in black")
 
 This branch is for building TWRP.
 
