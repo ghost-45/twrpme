@@ -1,7 +1,7 @@
-Elephone P9000
-==============
+Umidigi Devices Repository
+==========================
 
-The Elephone P9000 (codenamed _"P9000"_) is a flagship smartphone from Elephone.
+The Umidigi S3-Pro (codenamed _"S3-Pro"_) is a flagship smartphone from Umidigi.
 
 It was announced on 25 December 2015.
 
@@ -17,7 +17,7 @@ Display | 5.5" 1920 x 1080 px
 Rear Camera | 13MP (Sony IMX258 Exmor RS), Dual LED Flash, Laser autofocus
 Front Camera | 8MP (OV)
 
-![Elephone P9000](http://g03.a.alicdn.com/kf/HTB1.TsuKVXXXXanXXXXq6xXFXXX6/Official-Direct-Elephone-P9000-Helio-P10-MTK6755-2-0GHz-Octa-Core-4GB-RAM-32GB-ROM-5.jpg "Elephone P9000 in black")
+![Ulefone Devices](https://lh6.googleusercontent.com/14LQr0O-Maf5QWqGh1rlj6gM1W8B6tj-EFe8gQrLW4ujGYTBc6aY_zp66-BAXXm0nPEpvujv1vhYdIT_P8ipArBwskxgBUBCvS-fJ2h1dhDrYVoBeL1oZ9cBpkAcmDz8qahpuRIK "Umidigi S3-Pro in black")
 
 This branch is for building TWRP.
 
